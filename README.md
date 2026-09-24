@@ -1,4 +1,5 @@
 # E-Commerce QA Automation Suite
+[![Cypress Tests](https://github.com/soniaroh/qa-automation-portfolio/actions/workflows/cypress.yml/badge.svg)](https://github.com/soniaroh/qa-automation-portfolio/actions/workflows/cypress.yml)
 
 End-to-end test automation project built with Cypress and TypeScript.
 
